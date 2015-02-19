@@ -267,7 +267,7 @@ a:focus {
 .donate-section {
     width: 100%;
     padding: 50px 0;
-    color: #555;
+    color: #FFF;
     background: url(../img/girls2.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
@@ -279,7 +279,7 @@ a:focus {
 .sponsor-section {
     width: 100%;
     padding: 50px 0;
-    color: #555;
+    color: #FFF;
     background: url(../img/sponsors.jpg) center;
     background-color: #000;
     -webkit-background-size: cover;
