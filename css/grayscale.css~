@@ -137,7 +137,7 @@ a:focus {
     height: auto;
     padding: 100px 0;
     text-align: center;
-    color: white;
+    color: #c52614;
     background: url(../img/TypeWriter.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
